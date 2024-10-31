@@ -1,0 +1,9 @@
+/venv/
+
+.env
+
+/pycache/
+
+.coverage
+
+/staticfiles
